@@ -11,6 +11,18 @@
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
       "answer": "4"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What's my favorite number?",
+      "answer_options": ["2", "23", "37", "72"],
+      "answer": "72"
+    },
+    {
+      "id": 4,
+      "instruction_text": "How tall is the shard",
+      "answer_options": ["300m", "200m", "225m", "250m"],
+      "answer": "300m"
     }
   ]
 }
